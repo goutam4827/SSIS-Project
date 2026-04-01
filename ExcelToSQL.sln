@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ExcelToSQL", "ExcelToSQL.dtproj", "{B2D713B2-B238-3843-5758-864BFF2E8BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D713B2-B238-3843-5758-864BFF2E8BEB}.Development|Default.ActiveCfg = Development
+		{B2D713B2-B238-3843-5758-864BFF2E8BEB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C74336EF-6080-4318-B7AC-06D171ADC4A2}
+	EndGlobalSection
+EndGlobal
